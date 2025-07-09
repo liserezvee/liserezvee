@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently sharpening my skills in **React.js** & **Node.js**
+- 🌱 I’m currently sharpening my skills in **React.js**  & **Next.js** & **Node.js**
 - 🎯 Focused on building interactive and performant **frontend experiences**
 - ✨ I love **UI/UX design**, **web animations**, and **clean code**
 - 💬 Ask me about **JavaScript**, **React**, **CSS animations**, or **MongoDB**
