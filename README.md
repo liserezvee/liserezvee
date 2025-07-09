@@ -1,63 +1,97 @@
-<!-- Profile Header with Animation Flair -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋,+I'm+Rezvee!;Front-End+Developer+💻;React+%26+Next.js+Enthusiast⚡;Lover+of+Smooth+UI+🎨&center=true&width=500&height=50" />
+  🚀 Hey there, I'm Rezvee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
+
+<h3 align="center">
+  🎯 Front-End Developer | ⚛️ React & Next.js | 🎨 UI Lover | 🛠️ Building the Web
+</h3>
 
 <p align="center">
   <a href="https://rez-portfolio-eight.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-rabby-hasan-rezvee-211243349" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rabbyrezvee.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💡 About Me
+### 🧑‍💻 About Me
 
-🎨 Creative dev with a passion for stunning UI, smooth animations, and snappy performance.  
-🔥 Currently diving deeper into **React.js**, **Next.js**, and **Node.js**.  
-💬 Ask me about anything frontend — **JS**, **React**, **CSS Animations**, or **MongoDB**.  
-🚀 Check out my portfolio: [rez-portfolio-eight.vercel.app](https://rez-portfolio-eight.vercel.app/)  
-
----
-
-### 🛠️ My Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,mongodb,github,figma" />
-</p>
+- 🔭 Building awesome UIs with **Next.js**, **React**, and **MongoDB**
+- 🧠 Learning animation frameworks and reusable design systems
+- 🧩 Skilled with **Tailwind**, **Bootstrap**, **CSS Animations**
+- 📦 Currently working on full-stack apps with **routing**, **auth**, and **databases**
+- 🚀 Portfolio: [rez-portfolio-eight.vercel.app](https://rez-portfolio-eight.vercel.app/)
 
 ---
 
-### 📊 GitHub Activity
+### ⚒️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liserezvee&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liserezvee&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liserezvee&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=liserezvee&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liserezvee&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🎨 [**Animated Portfolio**](https://rez-portfolio-eight.vercel.app/) | Sleek portfolio site built with React & animations. | React, Tailwind, Framer Motion |
-| 🖼️ [**Single Page React Site**](https://miztek-eight.vercel.app/) | Modern SPA with animated scroll and UI. | React, Tailwind |
-| 🧭 [**Next.js CRUD App**](https://car-house-ruddy.vercel.app/) | Learning project with CRUD and routing. | Next.js, MongoDB, CSS |
+#### 🎨 My Portfolio  
+🔗 [rez-portfolio-eight.vercel.app](https://rez-portfolio-eight.vercel.app/)  
+Modern portfolio using **Next.js**, **Tailwind CSS**, and **smooth animations**.
 
-> 🧪 Explore more projects on my GitHub: [github.com/liserezvee](https://github.com/liserezvee)
+![Portfolio GIF](https://your-gif-host.com/portfolio.gif)
 
 ---
 
+#### 🛠️ Miztek  
+🔗 [miztek-eight.vercel.app](https://miztek-eight.vercel.app/)  
+Single Page Tech website built with **React + Tailwind**. Fully responsive with clean, modern visuals.
+
+![Miztek GIF](https://your-gif-host.com/miztek.gif)
+
+> 📝 *Note: It's a single-page smooth-scrolling layout. No routing.*
+
+---
+
+#### 🚗 Car House (Full-Stack App)  
+🔗 [car-house-ruddy.vercel.app](https://car-house-ruddy.vercel.app/)  
+A **Next.js** project with **MongoDB**, **Dynamic Routing**, and **form handling**. It allows users to list/view cars, and is styled with **Tailwind**.
+
+![Car House GIF](https://your-gif-host.com/carhouse.gif)
+
+> 🧩 *Includes MongoDB integration, API routing, and protected routes*
+
+---
+
+
+
+### 🔥 Let's Build Something Together
+
+> Front-end isn’t just about code. It’s about **experience**, **speed**, and **visual storytelling**.
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Let's+build+some+magic+✨;Front-End+Craftsmanship+in+Motion+🎯;Your+Ideas,+My+Code+💡" />
+  🧠 Keep learning | 🎯 Keep shipping | 💡 Keep improving
 </p>
