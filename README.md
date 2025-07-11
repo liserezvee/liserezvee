@@ -75,6 +75,18 @@ Single Page Tech website built with **React + Tailwind**. Fully responsive with 
 > 📝 *Note: It's a single-page smooth-scrolling layout. No routing.*
 
 ---
+#### 🏥 Doctor Appointment Website (Full-Stack)  
+🔗 [Client App](https://hospital-client-6rdr.onrender.com) | [Admin Dashboard](https://admin-pz6i.onrender.com)  
+A full-stack doctor appointment booking system with **ReactJS**, **Tailwind CSS**, **Node.js**, **Express**, **MongoDB**, and **React Router**.
+
+- 👥 Patients can browse doctors and book appointments
+- 🛡️ Admins can log in, manage doctors, and view appointments
+- 🔐 Features: JWT Auth, Role-based Access, CRUD operations, Routing
+
+![Doctor Appointment GIF](https://your-gif-host.com/doctor-appointment.gif)
+
+> 🧩 *Built with MERN stack and protected routing on both client and admin sides*
+
 
 #### 🚗 Car House (Full-Stack App)  
 🔗 [car-house-ruddy.vercel.app](https://car-house-ruddy.vercel.app/)  
