@@ -58,6 +58,38 @@
 
 ### 🚀 Featured Projects
 
+
+#### ✍️ RezBlog – Full Stack Blogging Platform
+🔗 [rezblog-ploi.vercel.app](https://rezblog-ploi.vercel.app)  
+
+
+A dynamic full-stack blog platform where users can create, read, update, and delete blog posts with the power of AI-assisted writing.
+
+🧠 Integrated Genibi AI for smart blog suggestions
+
+⚛️ Built with ReactJS, Tailwind CSS, Node.js, and MongoDB
+
+🔐 Includes authentication, full CRUD, and rich UI
+
+🚀 Fully responsive and deployed via Vercel
+
+💡 Smart writing meets sleek design. AI-enhanced blog creation made easy.
+
+_____
+
+#### 🏥 Doctor Appointment Website (Full-Stack)  
+🔗 [Client App](https://hospital-client-6rdr.onrender.com) | [Admin Dashboard](https://admin-pz6i.onrender.com)  
+A full-stack doctor appointment booking system with **ReactJS**, **Tailwind CSS**, **Node.js**, **Express**, **MongoDB**, and **React Router**.
+
+- 👥 Patients can browse doctors and book appointments
+- 🛡️ Admins can log in, manage doctors, and view appointments
+- 🔐 Features: JWT Auth, Role-based Access, CRUD operations, Routing
+
+![Doctor Appointment GIF](https://your-gif-host.com/doctor-appointment.gif)
+
+> 🧩 *Built with MERN stack and protected routing on both client and admin sides*
+
+______
 #### 🎨 My Portfolio  
 🔗 [rez-portfolio-eight.vercel.app](https://rez-portfolio-eight.vercel.app/)  
 Modern portfolio using **Next.js**, **Tailwind CSS**, and **smooth animations**.
@@ -75,17 +107,7 @@ Single Page Tech website built with **React + Tailwind**. Fully responsive with 
 > 📝 *Note: It's a single-page smooth-scrolling layout. No routing.*
 
 ---
-#### 🏥 Doctor Appointment Website (Full-Stack)  
-🔗 [Client App](https://hospital-client-6rdr.onrender.com) | [Admin Dashboard](https://admin-pz6i.onrender.com)  
-A full-stack doctor appointment booking system with **ReactJS**, **Tailwind CSS**, **Node.js**, **Express**, **MongoDB**, and **React Router**.
 
-- 👥 Patients can browse doctors and book appointments
-- 🛡️ Admins can log in, manage doctors, and view appointments
-- 🔐 Features: JWT Auth, Role-based Access, CRUD operations, Routing
-
-![Doctor Appointment GIF](https://your-gif-host.com/doctor-appointment.gif)
-
-> 🧩 *Built with MERN stack and protected routing on both client and admin sides*
 
 
 #### 🚗 Car House (Full-Stack App)  
