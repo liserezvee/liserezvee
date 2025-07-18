@@ -91,7 +91,8 @@ A full-stack doctor appointment booking system with **ReactJS**, **Tailwind CSS*
 
 ______
 #### 🎨 My Portfolio  
-🔗 [rez-portfolio-eight.vercel.app](https://rez-portfolio-eight.vercel.app/)  
+🔗 [https://rezvee-portfoilo.vercel.app/](https://rezvee-portfoilo.vercel.app/)
+
 Modern portfolio using **Next.js**, **Tailwind CSS**, and **smooth animations**.
 
 ![Portfolio GIF](https://your-gif-host.com/portfolio.gif)
