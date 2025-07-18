@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="(https://rezvee-portfoilo.vercel.app/)" target="_blank">
+  <a href="https://rezvee-portfoilo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-rabby-hasan-rezvee-211243349" target="_blank">
@@ -26,7 +26,7 @@
 - 🧠 Learning animation frameworks and reusable design systems
 - 🧩 Skilled with **Tailwind**, **Bootstrap**, **CSS Animations**
 - 📦 Currently working on full-stack apps with **routing**, **auth**, and **databases**
-- 🚀 Portfolio: [rez-portfolio-eight.vercel.app](https://rez-portfolio-eight.vercel.app/)
+- 🚀 Portfolio: [https://rezvee-portfoilo.vercel.app/](https://rezvee-portfoilo.vercel.app/)
 
 ---
 
