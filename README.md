@@ -99,8 +99,8 @@ Modern portfolio using **Next.js**, **Tailwind CSS**, and **smooth animations**.
 
 ---
 
-#### 🛠️ Miztek  
-🔗 [miztek-eight.vercel.app](https://miztek-eight.vercel.app/)  
+#### 🛠️ Olinko  
+🔗 [olinko-liserezvees-projects.vercel.app](https://olinko-liserezvees-projects.vercel.app/)  
 Single Page Tech website built with **React + Tailwind**. Fully responsive with clean, modern visuals.
 
 ![Miztek GIF](https://your-gif-host.com/miztek.gif)
