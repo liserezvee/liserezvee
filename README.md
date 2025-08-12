@@ -78,7 +78,7 @@ A dynamic full-stack blog platform where users can create, read, update, and del
 _____
 
 #### 🏥 Doctor Appointment Website (Full-Stack)  
-🔗 [Client App](https://hospital-client-6rdr.onrender.com) | [Admin Dashboard](https://admin-pz6i.onrender.com)  
+🔗 [Client App](https://hospital-client-6rdr.onrender.com/) | [Admin Dashboard](https://admin-pz6i.onrender.com)  
 A full-stack doctor appointment booking system with **ReactJS**, **Tailwind CSS**, **Node.js**, **Express**, **MongoDB**, and **React Router**.
 
 - 👥 Patients can browse doctors and book appointments
