@@ -196,7 +196,7 @@ Personal portfolio built with **Next.js + Tailwind**, smooth scroll, animations,
 ---
 
 ### 🛠️ Olinko  
-🔗 https://olinko-liserezvees-projects.vercel.app/  
+🔗 https://olinko.co.uk/  
 
 Single-page **React + Tailwind** tech website with smooth scrolling and responsive sections.
 
